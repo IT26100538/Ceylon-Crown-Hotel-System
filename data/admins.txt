@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 340ba020|Hotel Administrator|admin@ceyloncrown.lk|pbkdf2$120000$eTrgYBoHKZKTwZiCpSn59A==$hv6WLDZOxyeW/CnOfUh+1ADd56fMfc+bbRb7JhuNnak=
+=======
+c6dad2e9|Hotel Administrator|admin@ceyloncrown.lk|pbkdf2$120000$cF2UBKJASETA8ZBzxegp2A==$MlLeJj9Q72yixUqCG5tD+DGKAaWp528lRk0Sjyf5eA0=
+>>>>>>> bd6ce3dfaf24b0e4386fd6ba2e0bfe9aff7d0adc
